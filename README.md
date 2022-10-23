@@ -1,7 +1,8 @@
 
 # This project is used to find the shortest path
 # single source shortest path
-# we simple implementation of  the dijkistra algorithm 
+#  simple implementation of  the dijkistra algorithm 
+# this project is based on the react
 
 
 
