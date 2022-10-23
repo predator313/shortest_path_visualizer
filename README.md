@@ -1,3 +1,16 @@
+
+# This project is used to find the shortest path
+# single source shortest path
+# we simple implementation of  the dijkistra algorithm 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
